@@ -1,3 +1,4 @@
+module.exports = function(CodeMirror) {
 CodeMirror.defineMode("css", function(config) {
   var indentUnit = config.indentUnit, type;
   
@@ -463,3 +464,4 @@ CodeMirror.defineMode("css", function(config) {
 });
 
 CodeMirror.defineMIME("text/css", "css");
+};
