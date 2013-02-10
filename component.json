@@ -1,7 +1,7 @@
 {
-  "name": "codemirror-mode-javascript",
-  "repo": "benatkin/codemirror-mode-javascript",
-  "description": "a javascript mode for CodeMirror",
+  "name": "codemirror-mode-css",
+  "repo": "benatkin/codemirror-mode-css",
+  "description": "a CSS mode for CodeMirror",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
